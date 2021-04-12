@@ -4,10 +4,6 @@ My name is Somi Jeong and I am currently a Ph.D. student in School of Electrical
 I study computer vision, and my research interests are generative models, 3D reconstruction, and multi-spectral/multi-modal visual correspondence.
 
 # Paper
-<figure style="width: 120px"> <img src="https://taesung.me/SwappingAutoencoder/index_files/church_style_swaps.gif" alt=""> </figure>
-*Memory-guided Unsupervised Image-to-image Translation**<br/>**Somi Jeong*, Youngjung Kim, Eungbeen Lee, Kwanghoon Sohn<br/>
-IEEE Conference Computer Vision Pattern Recognition (CVPR), 2021<br/>
-
 *Memory-guided Unsupervised Image-to-image Translation*
 **Somi Jeong**, Youngjung Kim, Eungbeen Lee, Kwanghoon Sohn
 IEEE Conference Computer Vision Pattern Recognition (CVPR), 2021
