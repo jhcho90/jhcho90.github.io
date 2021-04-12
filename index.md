@@ -1,9 +1,9 @@
-# About Me
+## About Me
 
-My name is Somi Jeong and I am currently a Ph.D. student in School of Electrical and Electronics Engineering at Yonsei University, supervised by Prof. Kwanghoon Sohn.
+Hi! My name is Somi Jeong and I am currently a Ph.D. student in School of Electrical and Electronics Engineering at Yonsei University, supervised by Prof. Kwanghoon Sohn.
 I study computer vision, and my research interests are generative models, 3D reconstruction, and multi-spectral/multi-modal visual correspondence.
 
-# Paper
+## Paper
 *Memory-guided Unsupervised Image-to-image Translation*
 **Somi Jeong**, Youngjung Kim, Eungbeen Lee, Kwanghoon Sohn
 IEEE Conference Computer Vision Pattern Recognition (CVPR), 2021
