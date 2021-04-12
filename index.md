@@ -1,12 +1,14 @@
 ## About Me
 
-Hi! My name is Somi Jeong and I am currently a Ph.D. student in School of Electrical and Electronics Engineering at Yonsei University, supervised by Prof. Kwanghoon Sohn.
+Hi! 
+
+My name is Somi Jeong and I am currently a Ph.D. student in School of Electrical and Electronics Engineering at Yonsei University, supervised by Prof. Kwanghoon Sohn.
 I study computer vision, and my research interests are generative models, 3D reconstruction, and multi-spectral/multi-modal visual correspondence.
 
+
 ## Paper
-*   *Memory-guided Unsupervised Image-to-image Translation*
-**Somi Jeong**, Youngjung Kim, Eungbeen Lee, Kwanghoon Sohn
-IEEE Conference Computer Vision Pattern Recognition (CVPR), 2021
+
+*   *Memory-guided Unsupervised Image-to-image Translation* <br> **Somi Jeong**, Youngjung Kim, Eungbeen Lee, Kwanghoon Sohn<br>IEEE Conference Computer Vision Pattern Recognition (CVPR), 2021
 
 *   Keunhoon Choi*, **Somi Jeong**, Youngjung Kim, Kwanghoon Sohn. “Stereo-augmented Depth Completion from a Single RGB-LiDAR image”, IEEE International Conference on Robotics and Automation (ICRA), 2021 (* indicates equal contribution)
 
@@ -20,27 +22,4 @@ Seungryong Kim, Dongbo Min, **Somi Jeong**, Sunok Kim, Sangryul Jeon, Kwanghoon 
 
 **Somi Jeong**, Seungryong Kim, Bumsub Ham, Kwanghoon Sohn. “Convolutional Cost Aggregation for Robust Stereo Matching”, IEEE International Conference on Image Processing (ICIP), 2017
 
-```
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-'''
 
