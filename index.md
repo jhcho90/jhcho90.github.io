@@ -4,11 +4,11 @@ Hi! My name is Somi Jeong and I am currently a Ph.D. student in School of Electr
 I study computer vision, and my research interests are generative models, 3D reconstruction, and multi-spectral/multi-modal visual correspondence.
 
 ## Paper
-*Memory-guided Unsupervised Image-to-image Translation*
+*   *Memory-guided Unsupervised Image-to-image Translation*
 **Somi Jeong**, Youngjung Kim, Eungbeen Lee, Kwanghoon Sohn
 IEEE Conference Computer Vision Pattern Recognition (CVPR), 2021
 
-Keunhoon Choi*, **Somi Jeong**, Youngjung Kim, Kwanghoon Sohn. “Stereo-augmented Depth Completion from a Single RGB-LiDAR image”, IEEE International Conference on Robotics and Automation (ICRA), 2021 (* indicates equal contribution)
+*   Keunhoon Choi*, **Somi Jeong**, Youngjung Kim, Kwanghoon Sohn. “Stereo-augmented Depth Completion from a Single RGB-LiDAR image”, IEEE International Conference on Robotics and Automation (ICRA), 2021 (* indicates equal contribution)
 
 Eungbeen Lee, **Somi Jeong**, Kwanghoon Sohn. “Learning Building Extraction in SAR Image with Privileged Knowledge Distillation”, IEEE International Symposium on Geoscience and Remote Sensing (IGARSS), 2021
 
