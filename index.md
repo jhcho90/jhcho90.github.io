@@ -4,6 +4,8 @@ Hi!
 
 My name is Somi Jeong and I am currently a Ph.D. student in School of Electrical and Electronics Engineering at Yonsei University, supervised by Prof. Kwanghoon Sohn. 
 I study computer vision, and my research interests are generative models, 3D reconstruction, and multi-spectral/multi-modal visual correspondence.
+<br>
+<br>
 
 
 ## Paper
@@ -17,4 +19,5 @@ I study computer vision, and my research interests are generative models, 3D rec
 *   *Semantic Attribute Matching Networks*<br>Seungryong Kim, Dongbo Min, **Somi Jeong**, Sunok Kim, Sangryul Jeon, Kwanghoon Sohn<br>IEEE Conference Computer Vision Pattern Recognition (CVPR), 2019<br><br>
 *   *Convolutional Cost Aggregation for Robust Stereo Matching*<br>**Somi Jeong**, Seungryong Kim, Bumsub Ham, Kwanghoon Sohn<br>IEEE International Conference on Image Processing (ICIP), 2017
 
-
+<br>
+<br>
