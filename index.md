@@ -1,7 +1,6 @@
 ## About Me
 
 Hi! 
-
 My name is Somi Jeong and I am currently a Ph.D. student in School of Electrical and Electronics Engineering at Yonsei University, supervised by Prof. Kwanghoon Sohn. 
 I study computer vision, and my research interests are generative models, 3D reconstruction, and multi-spectral/multi-modal visual correspondence.
 <br>
