@@ -8,7 +8,7 @@ Recently, I have been interested in multi-task learning (MTL), including 2d/3d o
 <br>
 
 ## Paper
-*   *Improving Image de-raining using Reference-guided Transformers* <br> Zihao Ye, **Jaehoon Cho**, Changjae Oh<br>IEEE International Conference on Image Processing (ICIP), 2024 (submitted) <br>[Project page](https://ziiihooo.com/blog/2024/derain/)<br><br>
+*   <figure style="width: 120px"> <img src="https://jhcho90.github.io/assets/img/ref_rain.png" alt=""> </figure> *Improving Image de-raining using Reference-guided Transformers* <br> Zihao Ye, **Jaehoon Cho**, Changjae Oh<br>IEEE International Conference on Image Processing (ICIP), 2024 (submitted) <br>[Project page](https://ziiihooo.com/blog/2024/derain/)<br><br>
 *   *Multi-task Learning for Real-time Autonomous Driving Leveraging Task-adaptive Attention Generator* <br> Wonhyeok Choi, Mingyu Shin, HYUKZAE LEE, **Jaehoon Cho**, Jaehyeon Park, Sunghoon Im<br>IEEE International Conference on Robotics and Automation (ICRA), 2024, <br><br>
 *   *Memory-Guided Image De-Raining Using Time-Lapse Data* <br> **Jaehoon Cho**, Seungryong Kim, Kwanghoon Sohn<br>IEEE Transactions on Image Processing (TIP), 2022 <br><br>
 *   *Wide and Narrow: Video Prediction from Context and Motion* <br> **Jaehoon Cho**, Jiyoung Lee, Changjae Oh, Wonil Song, Kwanghoon Sohn<br>British Machine Vision Conference (BMVC), 2021 <br><br>
