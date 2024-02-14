@@ -22,9 +22,9 @@ Recently, I have been interested in multi-task learning (MTL), including 2d/3d o
 <br>
 
 ## Patents
-&middot; 3D object detection using spatial representative knowledge distillation<br/>
+*   *3D object detection using spatial representative knowledge distillation*<br/>
 KR 1020230151997, Jan. 2024. <br/>
-&middot; Ensemble learning data generation technique for semi-supervised multi-task learning<br/>
+*   *Ensemble learning data generation technique for semi-supervised multi-task learning*<br/>
 KR 1020230151996, Jan. 2024. <br/>
 &middot; Multi-GAN based rain dataset generation technique<br/>
 KR 1020230178074, Feb. 2024. <br/>
