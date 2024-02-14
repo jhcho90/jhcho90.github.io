@@ -19,11 +19,13 @@ Recently, I have been interested in multi-task learning (MTL), including 2d/3d o
 
 
 <br>
-<br>
 
 ## Technical Report
 *   *DIML/CVL RGB-D Dataset: 2M RGB-D Images of Natural Indoor and Outdoor Scenes* <br> **Jaehoon Cho**, Dongbo Min, Youngjung Kim, Kwanghoon Sohn<br>arXiv, 2021<br>[Project page](https://dimlrgbd.github.io/)<br><br>
 
+
+<br>
+<br>
 
 ## Patents
 *   *3D object detection using spatial representative knowledge distillation*<br/>
