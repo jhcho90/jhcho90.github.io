@@ -8,18 +8,22 @@ Recently, I have been interested in multi-task learning (MTL), including 2d/3d o
 <br>
 
 ## Paper
-<figure style="width: 100px"> <img src="https://jhcho90.github.io/assets/img/ref_rain.png" alt=""> </figure> **Improving Image de-raining using Reference-guided Transformers** <br/> Zihao Ye, **Jaehoon Cho**, Changjae Oh<br/>IEEE International Conference on Image Processing (ICIP), Oct. 2024 (submitted) <br/>[Project page](https://ziiihooo.com/blog/2024/derain/) <br><br>
-*   *Multi-task Learning for Real-time Autonomous Driving Leveraging Task-adaptive Attention Generator* <br> Wonhyeok Choi, Mingyu Shin, HYUKZAE LEE, **Jaehoon Cho**, Jaehyeon Park, Sunghoon Im<br>IEEE International Conference on Robotics and Automation (ICRA), 2024, <br><br>
-*   *Memory-Guided Image De-Raining Using Time-Lapse Data* <br> **Jaehoon Cho**, Seungryong Kim, Kwanghoon Sohn<br>IEEE Transactions on Image Processing (TIP), 2022 <br><br>
-*   *Wide and Narrow: Video Prediction from Context and Motion* <br> **Jaehoon Cho**, Jiyoung Lee, Changjae Oh, Wonil Song, Kwanghoon Sohn<br>British Machine Vision Conference (BMVC), 2021 <br><br>
-*   *Deep Monocular Depth Estimation Leveraging a Large-scale Outdoor Stereo Dataset* <br> **Jaehoon Cho**, Dongbo Min, Youngjung Kim, Kwanghoon Sohn<br>Expert Systems With Applications, 2021 <br>[Project page](https://dimlrgbd.github.io/)<br><br>
-*   *Pyramid Inter-Attention for High Dynamic Range Imaging* <br> Sungil Choi,  **Jaehoon Cho**, Wonil Song, Jihwan Choe, Jisung Yoo, Kwanghoon Sohn<br>Sensors, 2021 <br><br>
-*   *Single Image Deraining Using Time-lapse Data* <br> **Jaehoon Cho**, Seungryong Kim, Dongbo Min, Kwanghoon Sohn<br>IEEE Transactions on Image Processing (TIP), 2020 <br><br>
+*   *Improving Image de-raining using Reference-guided Transformers* <br>> Zihao Ye, **Jaehoon Cho**, Changjae Oh<br>IEEE International Conference on Image Processing (ICIP), Oct. 2024 (**Submitted**) <br>[Project page](https://ziiihooo.com/blog/2024/derain/) <br><br>
+*   *Multi-task Learning for Real-time Autonomous Driving Leveraging Task-adaptive Attention Generator* <br> Wonhyeok Choi, Mingyu Shin, HYUKZAE LEE, **Jaehoon Cho**, Jaehyeon Park, Sunghoon Im<br>IEEE International Conference on Robotics and Automation (ICRA), May. 2024 (**Accepted**) <br><br>
+*   *Memory-Guided Image De-Raining Using Time-Lapse Data* <br> **Jaehoon Cho**, Seungryong Kim, Kwanghoon Sohn<br>IEEE Transactions on Image Processing (**TIP**), vol. 31, pp. 4090 - 4103, Jun. 2022 (Impact factor: **10.856**)<br><br>
+*   *Wide and Narrow: Video Prediction from Context and Motion* <br> **Jaehoon Cho**, Jiyoung Lee, Changjae Oh, Wonil Song, Kwanghoon Sohn<br>British Machine Vision Conference (**BMVC**), 2021 <br><br>
+*   *Deep Monocular Depth Estimation Leveraging a Large-scale Outdoor Stereo Dataset* <br> **Jaehoon Cho**, Dongbo Min, Youngjung Kim, Kwanghoon Sohn<br>Expert Systems With Applications (**ESWA**), vol. 178, Mar. 2021 (Impact factor: **5.452**)<br>[Project page](https://dimlrgbd.github.io/)<br><br>
+*   *Pyramid Inter-Attention for High Dynamic Range Imaging* <br> Sungil Choi,  **Jaehoon Cho**, Wonil Song, Jihwan Choe, Jisung Yoo, Kwanghoon Sohn<br> **Sensors**, vol. 20, pp. 5102, Jun. 2021 (Impact factor: **3.275**) <br><br>
+*   *Single Image Deraining Using Time-lapse Data* <br> **Jaehoon Cho**, Seungryong Kim, Dongbo Min, Kwanghoon Sohn<br>IEEE Transactions on Image Processing (**TIP**), vol. 29, pp. 7274-7289, Jun. 2020 (Impact factor: **9.340**) <br><br>
 *   *Multi-Task Self-Supervised Visual Representation Learning for Monocular Road Segmentation*<br>**Jaehoon Cho**, Youngjung Kim, Changjae Oh, Kwanghoon Sohn<br>IEEE International Conference on Multimedia and Expo (ICME), 2018<br><br>
 
 
 <br>
 <br>
+
+## Technical Report
+*   *DIML/CVL RGB-D Dataset: 2M RGB-D Images of Natural Indoor and Outdoor Scenes* <br> **Jaehoon Cho**, Dongbo Min, Youngjung Kim, Kwanghoon Sohn<br>arXiv, 2021<br>[Project page](https://dimlrgbd.github.io/)<br><br>
+
 
 ## Patents
 *   *3D object detection using spatial representative knowledge distillation*<br/>
