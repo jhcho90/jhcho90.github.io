@@ -58,6 +58,8 @@ KR 10-2097869, Mar. 2020. <br/>
 &middot; [NAVER LABS](https://www.naverlabs.com/en/), “A Study on Outdoor Scene Understanding in the Dynamic Outdoor Environment”, 2021. <br/>
 &middot; [42dot](https://42dot.ai/), “Deep Neural Network for Single Image De-raining using Real-world Time-lapse Data”, 2021. <br/>
 
+<br>
+<br>
 
 ## Blogs
 &middot; [HMG DEVELOPERS](https://developers.hyundaimotorgroup.com/), “[Deep Learning Optimization] Hardware-Friendly Deep Learning Network: Understanding Reparameterization Techniques”, 2023 [Link](https://developers.hyundaimotorgroup.com/blog/291) <br/>
