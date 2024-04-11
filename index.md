@@ -15,8 +15,8 @@ Recently, I have been interested in multi-task learning (MTL), including 2d/3d o
 *   *Wide and Narrow: Video Prediction from Context and Motion* <br> **Jaehoon Cho**, Jiyoung Lee, Changjae Oh, Wonil Song, Kwanghoon Sohn<br>British Machine Vision Conference (**BMVC**), 2021 <br><br>
 *   *Deep Monocular Depth Estimation Leveraging a Large-scale Outdoor Stereo Dataset* <br> **Jaehoon Cho**, Dongbo Min, Youngjung Kim, Kwanghoon Sohn<br>Expert Systems With Applications (**ESWA**), vol. 178, Mar. 2021 (Impact factor: **5.452**)<br>[[Project page]](https://dimlrgbd.github.io/) [[Paper]](https://arxiv.org/pdf/1904.10230.pdf)<br><br>
 *   *Pyramid Inter-Attention for High Dynamic Range Imaging* <br> Sungil Choi,  **Jaehoon Cho**, Wonil Song, Jihwan Choe, Jisung Yoo, Kwanghoon Sohn<br> **Sensors**, vol. 20, pp. 5102, Jun. 2021 (Impact factor: **3.275**) <br><br>
-*   *Single Image Deraining Using Time-lapse Data* <br> **Jaehoon Cho**, Seungryong Kim, Dongbo Min, Kwanghoon Sohn<br>IEEE Transactions on Image Processing (**TIP**), vol. 29, pp. 7274-7289, Jun. 2020 (Impact factor: **9.340**) <br><br>
-*   *Multi-Task Self-Supervised Visual Representation Learning for Monocular Road Segmentation*<br>**Jaehoon Cho**, Youngjung Kim, Changjae Oh, Kwanghoon Sohn<br>IEEE International Conference on Multimedia and Expo (ICME), 2018<br>[[Data]](https://drive.google.com/file/d/1DFqzi7397EKn-Zm_HwRkASKRjSBxLp7i/view?usp=drive_link)<br><br>
+*   *Single Image Deraining Using Time-lapse Data* <br> **Jaehoon Cho**, Seungryong Kim, Dongbo Min, Kwanghoon Sohn<br>IEEE Transactions on Image Processing (**TIP**), vol. 29, pp. 7274-7289, Jun. 2020 (Impact factor: **9.340**)<br>[[Dataset]](https://drive.google.com/file/d/1scs_LN4Rk6M0VEzYYnCPWTfuHISd_8f-/view?usp=drive_link) <br><br>
+*   *Multi-Task Self-Supervised Visual Representation Learning for Monocular Road Segmentation*<br>**Jaehoon Cho**, Youngjung Kim, Changjae Oh, Kwanghoon Sohn<br>IEEE International Conference on Multimedia and Expo (ICME), 2018<br>[[Dataset]](https://drive.google.com/file/d/1DFqzi7397EKn-Zm_HwRkASKRjSBxLp7i/view?usp=drive_link)<br><br>
 
 
 <br>
