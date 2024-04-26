@@ -69,7 +69,8 @@ KR 10-2097869, Mar. 2020. <br/>
 <br>
 
 ## Blogs
-*   *[HMG DEVELOPERS](https://developers.hyundaimotorgroup.com/), “[Deep Learning Optimization] Hardware-Friendly Deep Learning Network: Understanding Reparameterization Techniques”*, 2023 [Link](https://developers.hyundaimotorgroup.com/blog/291) <br/>
+*   *[HMG DEVELOPERS](https://developers.hyundaimotorgroup.com/), “[Deep Learning Optimization] Hardware-Friendly Deep Learning Network: Understanding Reparameterization Techniques”*, Feb. 2024 [Link](https://developers.hyundaimotorgroup.com/blog/291) <br/>
+*   *[HMG DEVELOPERS](https://developers.hyundaimotorgroup.com/), “[Deep Learning Optimization] The compression/optimization technique of the deep learning model being applied in practice is?”*, Apr. 2024 [Link](https://developers.hyundaimotorgroup.com/blog/366) <br/>
 
 
 
