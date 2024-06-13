@@ -9,8 +9,8 @@ Recently, I have been interested in multi-task learning (MTL), including 2d/3d o
 
 ## Paper
 *   *Learning Confidence Measure with Transformer in Stereo Matching* <br> Jini Yang, Minjung Yoo, **Jaehoon Cho**, Sunok Kim<br>Pattern Recognition (PR), Mar. 2024 (**Submitted**) <br><br>
-*   *Improving Image de-raining using Reference-guided Transformers* <br> Zihao Ye, **Jaehoon Cho**, Changjae Oh<br>IEEE International Conference on Image Processing (ICIP), Oct. 2024 (**Submitted**) <br>[[Project page]](https://ziiihooo.com/blog/2024/derain/) <br><br>
-*   *Multi-task Learning for Real-time Autonomous Driving Leveraging Task-adaptive Attention Generator* <br> Wonhyeok Choi, Mingyu Shin, HYUKZAE LEE, **Jaehoon Cho**, Jaehyeon Park, Sunghoon Im<br>IEEE International Conference on Robotics and Automation (ICRA), May. 2024 (**Accepted**) <br><br>
+*   *Improving Image de-raining using Reference-guided Transformers* <br> Zihao Ye, **Jaehoon Cho**, Changjae Oh<br>IEEE International Conference on Image Processing (ICIP), Oct. 2024 (**Accepted**) <br>[[Project page]](https://ziiihooo.com/blog/2024/derain/) <br><br>
+*   *Multi-task Learning for Real-time Autonomous Driving Leveraging Task-adaptive Attention Generator* <br> Wonhyeok Choi, Mingyu Shin, HYUKZAE LEE, **Jaehoon Cho**, Jaehyeon Park, Sunghoon Im<br>IEEE International Conference on Robotics and Automation (ICRA), May. 2024 <br><br>
 *   *Memory-Guided Image De-Raining Using Time-Lapse Data* <br> **Jaehoon Cho**, Seungryong Kim, Kwanghoon Sohn<br>IEEE Transactions on Image Processing (**TIP**), vol. 31, pp. 4090 - 4103, Jun. 2022 (Impact factor: **10.856**)<br><br>
 *   *Wide and Narrow: Video Prediction from Context and Motion* <br> **Jaehoon Cho**, Jiyoung Lee, Changjae Oh, Wonil Song, Kwanghoon Sohn<br>British Machine Vision Conference (**BMVC**), 2021 <br><br>
 *   *Deep Monocular Depth Estimation Leveraging a Large-scale Outdoor Stereo Dataset* <br> **Jaehoon Cho**, Dongbo Min, Youngjung Kim, Kwanghoon Sohn<br>Expert Systems With Applications (**ESWA**), vol. 178, Mar. 2021 (Impact factor: **5.452**)<br>[[Project page]](https://dimlrgbd.github.io/) [[Paper]](https://arxiv.org/pdf/1904.10230.pdf)<br><br>
@@ -71,6 +71,7 @@ KR 10-2097869, Mar. 2020. <br/>
 ## Blogs
 *   *[HMG DEVELOPERS](https://developers.hyundaimotorgroup.com/), “[Deep Learning Optimization] Hardware-Friendly Deep Learning Network: Understanding Reparameterization Techniques”*, Feb. 2024 [Link](https://developers.hyundaimotorgroup.com/blog/291) <br/>
 *   *[HMG DEVELOPERS](https://developers.hyundaimotorgroup.com/), “[Deep Learning Optimization] The compression/optimization technique of the deep learning model being applied in practice is?”*, Apr. 2024 [Link](https://developers.hyundaimotorgroup.com/blog/366) <br/>
-
+*   *[HMG DEVELOPERS](https://developers.hyundaimotorgroup.com/), “[Deep Learning Optimization] Spatial Feature Knowledge Distillation for Monocular 3D Object Detection (1)”*, Feb. 2024 [Link](https://developers.hyundaimotorgroup.com/blog/411)) <br/>
+*   *[HMG DEVELOPERS](https://developers.hyundaimotorgroup.com/), “[Deep Learning Optimization] Spatial Feature Knowledge Distillation for Monocular 3D Object Detection (2)”*, Feb. 2024 [Link](https://developers.hyundaimotorgroup.com/blog/423) <br/>
 
 
