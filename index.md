@@ -1,15 +1,15 @@
 ## About Me
 
-My name is Jaehoon, and I work as a senior research engineer at Hyundai Motors in South Korea. 
+My name is Jaehoon, and I am a senior research engineer at Hyundai Motors in South Korea. 
 Working on autonomous driving systems has allowed me to solve many real-world problems by leveraging computer vision algorithms. 
-Challenging myself awards me the most satisfaction towards solving real-world problems.
-Recently, I have been interested in multi-task learning (MTL), including 2d/3d object detection, semantic segmentation, and depth estimation, but not limited to.
+Challenging myself awards me the most satisfaction in solving real-world problems.
+Recently, I have been interested in model compression to efficiently deploy neural network models for hardware platforms with limited computational resources.
 <br>
 <br>
 
 ## Paper
-*   *Learning Confidence Measure with Transformer in Stereo Matching* <br> Jini Yang, Minjung Yoo, **Jaehoon Cho**, Sunok Kim<br>Pattern Recognition (PR), Mar. 2024 (**Submitted**) <br><br>
-*   *Improving Image de-raining using Reference-guided Transformers* <br> Zihao Ye, **Jaehoon Cho**, Changjae Oh<br>IEEE International Conference on Image Processing (ICIP), Oct. 2024 (**Accepted**) <br>[[Project page]](https://ziiihooo.com/blog/2024/derain/) <br><br>
+*   *Learning Confidence Measure with Transformer in Stereo Matching* <br> Jini Yang, Minjung Yoo, **Jaehoon Cho**, Sunok Kim<br>Pattern Recognition (PR), Mar. 2024 (**under review**) <br><br>
+*   *Improving Image de-raining using Reference-guided Transformers* <br> Zihao Ye, **Jaehoon Cho**, Changjae Oh<br>IEEE International Conference on Image Processing (ICIP), Oct. 2024 <br>[[Project page]](https://ziiihooo.com/blog/2024/derain/) <br><br>
 *   *Multi-task Learning for Real-time Autonomous Driving Leveraging Task-adaptive Attention Generator* <br> Wonhyeok Choi, Mingyu Shin, HYUKZAE LEE, **Jaehoon Cho**, Jaehyeon Park, Sunghoon Im<br>IEEE International Conference on Robotics and Automation (ICRA), May. 2024 <br><br>
 *   *Memory-Guided Image De-Raining Using Time-Lapse Data* <br> **Jaehoon Cho**, Seungryong Kim, Kwanghoon Sohn<br>IEEE Transactions on Image Processing (**TIP**), vol. 31, pp. 4090 - 4103, Jun. 2022 (Impact factor: **10.856**)<br><br>
 *   *Wide and Narrow: Video Prediction from Context and Motion* <br> **Jaehoon Cho**, Jiyoung Lee, Changjae Oh, Wonil Song, Kwanghoon Sohn<br>British Machine Vision Conference (**BMVC**), 2021 <br><br>
@@ -71,7 +71,7 @@ KR 10-2097869, Mar. 2020. <br/>
 ## Blogs
 *   *[HMG DEVELOPERS](https://developers.hyundaimotorgroup.com/), “[Deep Learning Optimization] Hardware-Friendly Deep Learning Network: Understanding Reparameterization Techniques”*, Feb. 2024 [Link](https://developers.hyundaimotorgroup.com/blog/291) <br/>
 *   *[HMG DEVELOPERS](https://developers.hyundaimotorgroup.com/), “[Deep Learning Optimization] The compression/optimization technique of the deep learning model being applied in practice is?”*, Apr. 2024 [Link](https://developers.hyundaimotorgroup.com/blog/366) <br/>
-*   *[HMG DEVELOPERS](https://developers.hyundaimotorgroup.com/), “[Deep Learning Optimization] Spatial Feature Knowledge Distillation for Monocular 3D Object Detection (1)”*, Feb. 2024 [Link](https://developers.hyundaimotorgroup.com/blog/411)) <br/>
-*   *[HMG DEVELOPERS](https://developers.hyundaimotorgroup.com/), “[Deep Learning Optimization] Spatial Feature Knowledge Distillation for Monocular 3D Object Detection (2)”*, Feb. 2024 [Link](https://developers.hyundaimotorgroup.com/blog/423) <br/>
+*   *[HMG DEVELOPERS](https://developers.hyundaimotorgroup.com/), “[Deep Learning Optimization] Spatial Feature Knowledge Distillation for Monocular 3D Object Detection (1)”*, May. 2024 [Link](https://developers.hyundaimotorgroup.com/blog/411)) <br/>
+*   *[HMG DEVELOPERS](https://developers.hyundaimotorgroup.com/), “[Deep Learning Optimization] Spatial Feature Knowledge Distillation for Monocular 3D Object Detection (2)”*, Jun. 2024 [Link](https://developers.hyundaimotorgroup.com/blog/423) <br/>
 
 
