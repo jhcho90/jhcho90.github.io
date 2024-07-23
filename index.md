@@ -9,6 +9,7 @@ Recently, I have been interested in model compression to efficiently deploy neur
 
 ## Paper
 *   *Learning Confidence Measure with Transformer in Stereo Matching* <br> Jini Yang, Minjung Yoo, **Jaehoon Cho**, Sunok Kim<br>Pattern Recognition (PR), Mar. 2024 (**under review**) <br><br>
+*   *A Prototype Unit for Image De-raining using Time-Lapse Data* <br> **Jaehoon Cho**, Jini Yang, Minjung Yoo, Sunok Kim<br>British Machine Vision Conference (BMVC), Nov. 2024 (**accepted**) <br><br>
 *   *Improving Image de-raining using Reference-guided Transformers* <br> Zihao Ye, **Jaehoon Cho**, Changjae Oh<br>IEEE International Conference on Image Processing (ICIP), Oct. 2024 <br>[[Project page]](https://ziiihooo.com/blog/2024/derain/) <br><br>
 *   *Multi-task Learning for Real-time Autonomous Driving Leveraging Task-adaptive Attention Generator* <br> Wonhyeok Choi, Mingyu Shin, HYUKZAE LEE, **Jaehoon Cho**, Jaehyeon Park, Sunghoon Im<br>IEEE International Conference on Robotics and Automation (ICRA), May. 2024 <br><br>
 *   *Memory-Guided Image De-Raining Using Time-Lapse Data* <br> **Jaehoon Cho**, Seungryong Kim, Kwanghoon Sohn<br>IEEE Transactions on Image Processing (**TIP**), vol. 31, pp. 4090 - 4103, Jun. 2022 (Impact factor: **10.856**)<br><br>
