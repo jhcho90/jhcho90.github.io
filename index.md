@@ -9,7 +9,7 @@ Recently, I have been interested in model compression to efficiently deploy neur
 
 ## Paper
 *   *A Prototype Unit for Image De-raining using Time-Lapse Data* <br> **Jaehoon Cho**, Jini Yang, Minjung Yoo, Sunok Kim<br>British Machine Vision Conference (BMVC), Nov. 2024 (**accepted**) <br><br>
-*   *Learning Confidence Measure with Transformer in Stereo Matching* <br> Jini Yang, Minjung Yoo, **Jaehoon Cho**, Sunok Kim<br>Pattern Recognition (PR), Aug. 2024 (**accepted**) <br><br>
+*   *Learning Confidence Measure with Transformer in Stereo Matching* <br> Jini Yang, Minjung Yoo, **Jaehoon Cho**, Sunok Kim<br>Pattern Recognition (PR), Oct. 2024 (**accepted**) <br><br>
 *   *Improving Image de-raining using Reference-guided Transformers* <br> Zihao Ye, **Jaehoon Cho**, Changjae Oh<br>IEEE International Conference on Image Processing (ICIP), Oct. 2024 <br>[[Project page]](https://ziiihooo.com/blog/2024/derain/) [[Paper]](https://arxiv.org/abs/2408.00258) <br><br>
 *   *Multi-task Learning for Real-time Autonomous Driving Leveraging Task-adaptive Attention Generator* <br> Wonhyeok Choi, Mingyu Shin, HYUKZAE LEE, **Jaehoon Cho**, Jaehyeon Park, Sunghoon Im<br>IEEE International Conference on Robotics and Automation (ICRA), May. 2024 <br> [[Paper]](https://arxiv.org/abs/2403.03468)<br><br>
 *   *Memory-Guided Image De-Raining Using Time-Lapse Data* <br> **Jaehoon Cho**, Seungryong Kim, Kwanghoon Sohn<br>IEEE Transactions on Image Processing (**TIP**), vol. 31, pp. 4090 - 4103, Jun. 2022 (Impact factor: **10.856**) <br>[[Code]](https://github.com/jhcho90/MGID/) [[Paper]](https://arxiv.org/abs/2201.01883)<br><br>
@@ -62,6 +62,7 @@ KR 10-2097869, Mar. 2020. <br/>
 <br>
 
 ## Invited Talks
+*   *[CVLAB](https://cvlab.kau.ac.kr/), “The process of embedded network optimization”*, Sep. 2024. <br/>
 *   *[HMG Developer Conference](https://devcon.hyundaimotorgroup.com/), “Multi-Task Learning Research Considering Embedded Performance”*, 2023. [Link](https://www.youtube.com/watch?v=kwQxIml-GGE&list=PLypFzBtJUO_gDlP0xkac4kXAaGcr_w31w&index=12&ab_channel=HMGDeveloperRelations) <br/>
 *   *[NAVER LABS](https://www.naverlabs.com/en/), “A Study on Outdoor Scene Understanding in the Dynamic Outdoor Environment”*, 2021. <br/>
 *   *[42dot](https://42dot.ai/), “Deep Neural Network for Single Image De-raining using Real-world Time-lapse Data”*, 2021. <br/>
@@ -74,5 +75,6 @@ KR 10-2097869, Mar. 2020. <br/>
 *   *[HMG DEVELOPERS](https://developers.hyundaimotorgroup.com/), “[Deep Learning Optimization] The compression/optimization technique of the deep learning model being applied in practice is?”*, Apr. 2024 [Link](https://developers.hyundaimotorgroup.com/blog/366) <br/>
 *   *[HMG DEVELOPERS](https://developers.hyundaimotorgroup.com/), “[Deep Learning Optimization] Spatial Feature Knowledge Distillation for Monocular 3D Object Detection (1)”*, May. 2024 [Link](https://developers.hyundaimotorgroup.com/blog/411)) <br/>
 *   *[HMG DEVELOPERS](https://developers.hyundaimotorgroup.com/), “[Deep Learning Optimization] Spatial Feature Knowledge Distillation for Monocular 3D Object Detection (2)”*, Jun. 2024 [Link](https://developers.hyundaimotorgroup.com/blog/423) <br/>
+*   *[HMG DEVELOPERS](https://developers.hyundaimotorgroup.com/), “Why do we need to conduct quantization?”*, Sep. 2024 [Link](https://developers.hyundaimotorgroup.com/blog/481) <br/>
 
 
