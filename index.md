@@ -5,7 +5,7 @@ I am passionate about solving real-world problems using AI. Autonomous driving i
 
 <br>
 
-*   *I commit 1 hour every week to provide guidance, suggestions, and/or mentorships for students from underrepresented groups or whoever is in need. Please fill in [this form](https://docs.google.com/forms/d/1xzVGHeHVby7FVGn_cKkLC3x0suutEHhSzCZTy9Kjdpc/edit) if you are interested.
+*   I commit 1 hour every week to provide guidance, suggestions, and/or mentorships for students from underrepresented groups or whoever is in need. Please fill in [this form](https://docs.google.com/forms/d/1xzVGHeHVby7FVGn_cKkLC3x0suutEHhSzCZTy9Kjdpc/edit) if you are interested.
 
 <br>
 <br>
