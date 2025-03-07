@@ -1,14 +1,17 @@
 ## About Me
 
 My name is Jaehoon, and I am a senior research engineer at Hyundai Motors in South Korea. 
-Working on autonomous driving systems has allowed me to solve many real-world problems by leveraging computer vision algorithms. 
-Challenging myself awards me the most satisfaction in solving real-world problems.
-Recently, I have been interested in model compression to efficiently deploy neural network models for hardware platforms with limited computational resources.
+I am passionate about solving real-world problems using AI. Autonomous driving is a compelling domain where AI can significantly impact society, and I take great pride in my work. I enjoy collaborating with experts from diverse backgrounds and believe in the power of teamwork to drive innovation. Additionally, I am highly interested in publishing research papers, filing patents, and engaging in technical discussions. 
+
+<br>
+
+*   *I commit 1 hour every week to provide guidance, suggestions, and/or mentorships for students from underrepresented groups or whoever is in need. Please fill in [this form](https://docs.google.com/forms/d/1xzVGHeHVby7FVGn_cKkLC3x0suutEHhSzCZTy9Kjdpc/edit) if you are interested.
+
 <br>
 <br>
 
 ## Paper
-*   *Learning Confidence Measure with Transformer in Stereo Matching* <br> Jini Yang, Minjung Yoo, **Jaehoon Cho**, Sunok Kim<br>Pattern Recognition (PR), Oct. 2024 (**accepted**) <br><br>
+*   *Learning Confidence Measure with Transformer in Stereo Matching* <br> Jini Yang, Minjung Yoo, **Jaehoon Cho**, Sunok Kim<br>Pattern Recognition (PR), Oct. 2024 <br> [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0031320324006277)<br><br>
 *   *A Prototype Unit for Image De-raining using Time-Lapse Data* <br> **Jaehoon Cho**, Jini Yang, Minjung Yoo, Sunok Kim<br>British Machine Vision Conference (BMVC), Nov. 2024 <br>[[Paper]](https://bmva-archive.org.uk/bmvc/2024/papers/Paper_595/paper.pdf) [[Poster]](https://bmva-archive.org.uk/bmvc/2024/papers/Paper_595/poster.pdf)<br><br>
 *   *Improving Image de-raining using Reference-guided Transformers* <br> Zihao Ye, **Jaehoon Cho**, Changjae Oh<br>IEEE International Conference on Image Processing (ICIP), Oct. 2024 <br>[[Project page]](https://ziiihooo.com/blog/2024/derain/) [[Paper]](https://arxiv.org/abs/2408.00258) <br><br>
 *   *Multi-task Learning for Real-time Autonomous Driving Leveraging Task-adaptive Attention Generator* <br> Wonhyeok Choi, Mingyu Shin, HYUKZAE LEE, **Jaehoon Cho**, Jaehyeon Park, Sunghoon Im<br>IEEE International Conference on Robotics and Automation (ICRA), May. 2024 <br> [[Paper]](https://arxiv.org/abs/2403.03468)<br><br>
@@ -71,10 +74,15 @@ KR 10-2097869, Mar. 2020. <br/>
 <br>
 
 ## Blogs
-*   *[HMG DEVELOPERS](https://developers.hyundaimotorgroup.com/), “[Deep Learning Optimization] Hardware-Friendly Deep Learning Network: Understanding Reparameterization Techniques”*, Feb. 2024 [Link](https://developers.hyundaimotorgroup.com/blog/291) <br/>
-*   *[HMG DEVELOPERS](https://developers.hyundaimotorgroup.com/), “[Deep Learning Optimization] The compression/optimization technique of the deep learning model being applied in practice is?”*, Apr. 2024 [Link](https://developers.hyundaimotorgroup.com/blog/366) <br/>
-*   *[HMG DEVELOPERS](https://developers.hyundaimotorgroup.com/), “[Deep Learning Optimization] Spatial Feature Knowledge Distillation for Monocular 3D Object Detection (1)”*, May. 2024 [Link](https://developers.hyundaimotorgroup.com/blog/411)) <br/>
+*   *[HMG DEVELOPERS](https://developers.hyundaimotorgroup.com/), “Developing an AI Model for Embedded Board Performance Prediction: A Success Story in Workflow Optimization”*, Feb. 2025 [Link](https://developers.hyundaimotorgroup.com/blog/590) <br/>
+*   *[HMG DEVELOPERS](https://developers.hyundaimotorgroup.com/), “[Deep Learning Optimization] Lightweighting Deep Learning Networks with Pruning: Concepts and Real-World Applications”*, Nov. 2024 [Link](https://developers.hyundaimotorgroup.com/blog/539) <br/>
+*   *[HMG DEVELOPERS](https://developers.hyundaimotorgroup.com/), “CVPR 2024 from the Perspective of an Autonomous Driving Researcher”*, Oct. 2024 [Link](https://developers.hyundaimotorgroup.com/blog/503) <br/>
+*   *[HMG DEVELOPERS](https://developers.hyundaimotorgroup.com/), “[Deep Learning Optimization] Why is Quantization Necessary for Deep Learning Networks in autonomous driving?”*, Sep. 2024 [Link](https://developers.hyundaimotorgroup.com/blog/481) <br/>
 *   *[HMG DEVELOPERS](https://developers.hyundaimotorgroup.com/), “[Deep Learning Optimization] Spatial Feature Knowledge Distillation for Monocular 3D Object Detection (2)”*, Jun. 2024 [Link](https://developers.hyundaimotorgroup.com/blog/423) <br/>
 *   *[HMG DEVELOPERS](https://developers.hyundaimotorgroup.com/), “Why do we need to conduct quantization?”*, Sep. 2024 [Link](https://developers.hyundaimotorgroup.com/blog/481) <br/>
+*   *[HMG DEVELOPERS](https://developers.hyundaimotorgroup.com/), “[Deep Learning Optimization] Spatial Feature Knowledge Distillation for Monocular 3D Object Detection (1)”*, May. 2024 [Link](https://developers.hyundaimotorgroup.com/blog/411)) <br/>
+*   *[HMG DEVELOPERS](https://developers.hyundaimotorgroup.com/), “[Deep Learning Optimization] The compression/optimization technique of the deep learning model being applied in practice is?”*, Apr. 2024 [Link](https://developers.hyundaimotorgroup.com/blog/366) <br/>
+*   *[HMG DEVELOPERS](https://developers.hyundaimotorgroup.com/), “[Deep Learning Optimization] Hardware-Friendly Deep Learning Network: Understanding Reparameterization Techniques”*, Feb. 2024 [Link](https://developers.hyundaimotorgroup.com/blog/291) <br/>
+
 
 
