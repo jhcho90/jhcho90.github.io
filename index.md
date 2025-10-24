@@ -1,11 +1,8 @@
 ## About Me
 
 My name is Jaehoon, and I am a senior research engineer at Hyundai Motors in South Korea. 
-I am passionate about solving real-world problems using AI. Autonomous driving is a compelling domain where AI can significantly impact society, and I take great pride in my work. I enjoy collaborating with experts from diverse backgrounds and believe in the power of teamwork to drive innovation. Additionally, I am highly interested in publishing research papers, filing patents, and engaging in technical discussions. 
+I am passionate about solving real-world problems using AI. Autonomous driving is a compelling domain where AI can have a significant impact on society, and I take great pride in my work. I enjoy collaborating with experts from diverse backgrounds and believe in the power of teamwork to drive innovation. Additionally, I am highly interested in publishing research papers, filing patents, and engaging in technical discussions. 
 
-<br>
-
-*   I commit 1 hour every week to provide guidance, suggestions, and/or mentorships for students from underrepresented groups or whoever is in need. Please fill in [this form](https://docs.google.com/forms/d/1xzVGHeHVby7FVGn_cKkLC3x0suutEHhSzCZTy9Kjdpc/edit) if you are interested.
 
 <br>
 <br>
