@@ -1,8 +1,18 @@
+# Welcome to Jaehoon Cho's Homepage
+
+**I have moved!** 
+Please visit my new personal/laboratory website for the latest updates on my research at Korea Aerospace University.
+
+## [👉 Go to My New Homepage](https://aimslab.vercel.app/) 
+
+---
+
+<!--
+
 ## About Me
 
 My name is Jaehoon, and I am a senior research engineer at Hyundai Motors in South Korea. 
 I am passionate about solving real-world problems using AI. Autonomous driving is a compelling domain where AI can have a significant impact on society, and I take great pride in my work. I enjoy collaborating with experts from diverse backgrounds and believe in the power of teamwork to drive innovation. Additionally, I am highly interested in publishing research papers, filing patents, and engaging in technical discussions. 
-
 
 <br>
 <br>
@@ -82,4 +92,4 @@ KR 10-2097869, Mar. 2020. <br/>
 *   *[HMG DEVELOPERS](https://developers.hyundaimotorgroup.com/), “[Deep Learning Optimization] Hardware-Friendly Deep Learning Network: Understanding Reparameterization Techniques”*, Feb. 2024 [Link](https://developers.hyundaimotorgroup.com/blog/291) <br/>
 
 
-
+-->
